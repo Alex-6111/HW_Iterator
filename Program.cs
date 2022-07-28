@@ -5,8 +5,8 @@ namespace HW_Iterator
     {
         static void Main()
         {
-            //Problem1();
-            //Problem2();
+            Problem1();
+            Problem2();
             Problem3();
         }
 
@@ -36,8 +36,5 @@ namespace HW_Iterator
                 Console.WriteLine(item);
             }
         }
-
-
-
     }
 }
